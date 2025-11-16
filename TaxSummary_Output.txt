@@ -1,0 +1,16 @@
+ID: SG201
+Total Income: RM75800.00
+Relief: RM20155.00
+Chargeable Income: RM55645.00
+Tax Payable: RM2120.95
+MTD: RM4800.00
+Final Amount: RM-2679.05
+-------------------------------
+ID: SG201
+Total Income: RM80800.00
+Relief: RM21200.00
+Chargeable Income: RM59600.00
+Tax Payable: RM2556.00
+MTD: RM4800.00
+Final Amount: RM-2244.00
+-------------------------------
