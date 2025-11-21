@@ -14,3 +14,13 @@ Tax Payable: RM2556.00
 MTD: RM4800.00
 Final Amount: RM-2244.00
 -------------------------------
+ID: SG303
+Total Income: RM5502500.00
+Total Relief: RM26000.00
+Chargeable Income: RM5476500.00
+Tax of the first amount (up to RM100,000): RM9400.00
+Tax on remaining amount: RM1561950.00
+Total Tax Payable: RM1571350.00
+MTD: RM55000.00
+Final Amount (TaxPay - MTD): RM1516350.00
+-------------------------------------------
